@@ -1,0 +1,46 @@
+/*Body Styling*/
+body{
+	background:blueviolet;
+		cursor:auto;
+}
+/*ID styling*/
+#.entry-title{
+	color:blue;
+}
+
+h1 {
+	font-size: 4em;
+	margin: 0.67em 0;
+	color:black;
+}
+h2 {
+	font-size:3em;
+	background:white
+}
+/*Classes styling*/
+.home {
+	font-size-adjust:1.2;
+	background-color:black;
+	color:blue;
+}
+.more-about-me {
+	font-weight:bolder;
+	text-align:justify;
+}
+.wp-block-social-links{
+	background:purple;
+}
+.project-div h2{
+	background:black;
+}
+.project-div ul{
+	background:beige
+}
+.reference{
+	font-weight:bolder;
+	text-align:justify;
+	background-color:pink;
+}
+.reference figcaption{
+	color:purple;
+}
